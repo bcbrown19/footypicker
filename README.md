@@ -1,5 +1,6 @@
 # footypicker
 
+* do something on windows
 * still trying to figure out git
 
 * register domain
